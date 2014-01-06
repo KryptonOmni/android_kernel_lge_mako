@@ -509,7 +509,9 @@ CONFIG_CRYPTO_TWOFISH=y
 #
 # IO Schedulers
 #
+CONFIG_IOSCHED_ZEN=y
 CONFIG_IOSCHED_TRIPNDROID=y
+# CONFIG_DEFAULT_ZEN is not set
 # CONFIG_DEFAULT_TRIPNDROID is not set
 
 # kexec hardboot support
